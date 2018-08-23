@@ -1,18 +1,33 @@
 {
-  "name": "netlolo_challenge",
-  "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
-  "scripts": {
-    "test": "mocha"
-  },
-  "author": "Henrique Carvalho da Cruz",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.16.2"
-  },
-  "devDependencies": {
-    "mocha": "^5.2.0",
-    "nodemon": "^1.14.3"
-  }
+	"name": "netlolo-challenge",
+	"version": "1.0.0",
+	"description": "Netlolo developer challenge",
+	"main": "server.js",
+	"scripts": {
+		"start": "node .",
+		"test": "mocha"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://henriquecarv@github.com/henriquecarv/netlolo-challenge.git"
+	},
+	"keywords": [
+		"netlolo",
+		"henriquecarv",
+		"book",
+		"offers",
+		"express",
+		"mocha"
+	],
+	"author": "Henrique Carvalho da Cruz <henriquecarv.cruz@gmail.com> (https://henriquecarv.com)",
+	"license": "MIT",
+	"homepage": "https://github.com/henriquecarv/netlolo-challenge#readme",
+	"bugs": "https://github.com/henriquecarv/netlolo-challenge/issues",
+	"dependencies": {
+		"express": "^4.16.3"
+	},
+	"devDependencies": {
+		"mocha": "^5.2.0",
+		"nodemon": "^1.18.3"
+	}
 }
