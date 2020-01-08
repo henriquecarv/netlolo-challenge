@@ -24,10 +24,10 @@
 	"homepage": "https://github.com/henriquecarv/netlolo-challenge#readme",
 	"bugs": "https://github.com/henriquecarv/netlolo-challenge/issues",
 	"dependencies": {
-		"express": "^4.16.3"
+		"express": "^4.17.1"
 	},
 	"devDependencies": {
-		"mocha": "^6.0.0",
-		"nodemon": "^1.18.3"
+		"mocha": "^7.0.0",
+		"nodemon": "^2.0.2"
 	}
 }
