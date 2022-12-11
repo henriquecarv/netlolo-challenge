@@ -24,7 +24,7 @@
 	"homepage": "https://github.com/henriquecarv/netlolo-challenge#readme",
 	"bugs": "https://github.com/henriquecarv/netlolo-challenge/issues",
 	"dependencies": {
-		"express": "^4.17.1"
+		"express": "^4.17.3"
 	},
 	"devDependencies": {
 		"mocha": "^7.1.2",
